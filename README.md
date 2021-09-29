@@ -1,7 +1,7 @@
 <h1 align="center">ASCII-ART-WEB</h1>
 
 ## About The Project
-Ascii-art-web is a program which consists in running HTTP server, which is written GoLang. In this server possible to use a web GUI of [ascii-art](https://github.com/SpectreH/ascii-art) project.
+Ascii-art-web is a program which consists in running HTTP server, which is written in GoLang. In this server possible to use a web GUI of [ascii-art](https://github.com/SpectreH/ascii-art) project.
 
 ## Installation
 ```
