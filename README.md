@@ -12,7 +12,7 @@ cd ascii-art-web
 ```
 go run . main.go
 ```
-Then open your browser and go to the IP address localhost:8000, and you should see the ASCII-ART-GENERATOR page.
+Then open your browser and go to the IP address <code>localhost:8000</code>, and you should see the ASCII-ART-GENERATOR page.
 
 Available banners:
 * <code>standard</code>
