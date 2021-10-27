@@ -31,6 +31,10 @@ Prepared <code>Dockerfile</code> for using program at the Docker platform.
 
 Only standard go packages were in use.  
 
+## Docker
+
+You can use test file to create image and container of this project with command <code>bash test.sh</code>. To remove all this stuff after you can use <code>bash remove.sh</code>
+
 ## Author
 
 * SpectreH (https://github.com/SpectreH)
